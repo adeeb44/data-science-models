@@ -1,0 +1,3 @@
+Both the projects are based on AI model, in which I have shown the exloratory data analysis along with visualisation.
+After that I have used Classifier/Regressor for the model along with K-means Clustering, The fisrt file contains the data which is supervised and the second file contains the data which is unsupervised.
+All the code contains the comments for explanation.
